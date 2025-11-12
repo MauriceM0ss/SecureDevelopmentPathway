@@ -57,7 +57,7 @@ JSON Schema Validation zorgt ervoor dat alle JSON-invoer die door een applicatie
       const validate = ajv.compile(schema);
 
       const data = {
-        name: 'VWS Example',
+        name: 'Example',
         age: 30
       };
 

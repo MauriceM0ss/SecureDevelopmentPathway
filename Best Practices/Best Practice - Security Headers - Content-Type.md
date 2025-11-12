@@ -37,7 +37,7 @@ Content-Type: multipart/form-data; boundary=something
 Via een terminal verstuur het volgende commando:
 
 ```bash
-curl -s -D- https://vws-example.nl | grep -i Content-Type
+curl -s -D- https://example.nl | grep -i Content-Type
 ```
 
 De verwachte response is bijvoorbeeld: `content-type: text/html; charset=UTF-8`

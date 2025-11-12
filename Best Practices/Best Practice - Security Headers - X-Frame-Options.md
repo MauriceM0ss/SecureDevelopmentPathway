@@ -20,7 +20,7 @@ Met bovenstaande HTTP-header word voorkomen dat de content van de website via ee
 1. Via een terminal verstuur het volgende commando:
 
     ```bash
-    curl -s -D- https://vws-example.nl | grep -i X-Frame
+    curl -s -D- https://example.nl | grep -i X-Frame
     ```
 
 2. De verwachte response is:

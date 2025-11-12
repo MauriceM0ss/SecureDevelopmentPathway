@@ -15,7 +15,7 @@ X-Content-Type-Options: nosniff
 1. Via een terminal verstuur het volgende commando:
 
     ```bash
-    curl -s -D- https://vws-example.nl | grep -i content-type
+    curl -s -D- https://example.nl | grep -i content-type
     ```
 
 2. De verwachte response is:

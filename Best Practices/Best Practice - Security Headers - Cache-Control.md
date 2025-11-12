@@ -17,7 +17,7 @@ Deze header verbiedt webcaches om de response op te slaan en forceert browsers o
 Verstuur het volgende commando via een terminal:
 
 ```bash
-curl -s -D- https://vws-example.nl | grep -i cache
+curl -s -D- https://example.nl | grep -i cache
 ```
 
 De verwachte response is: `Cache-Control: no-store, max-age=0`

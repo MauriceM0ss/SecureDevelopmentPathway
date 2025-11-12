@@ -48,7 +48,7 @@ value2
 Open een terminal en voer het volgende commando uit:
 
 ```bash
-curl -s -D- https://vws-example.nl | grep -i Content-Disposition
+curl -s -D- https://example.nl | grep -i Content-Disposition
 ```
 
 ## FAQ
