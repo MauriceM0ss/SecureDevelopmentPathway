@@ -17,7 +17,7 @@ Deze header verwijderd de cache, cookies en storage die in de browser zijn opges
 Via een terminal verstuur het volgende commando:
 
 ```bash
-curl -s -D- https://vws-exampe.nl | grep -i clear
+curl -s -D- https://exampe.nl | grep -i clear
 ```
 
 De verwachte response is: `Clear-Site-Data: "cache","cookies","storage"`
