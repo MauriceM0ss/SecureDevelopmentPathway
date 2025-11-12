@@ -1,0 +1,5 @@
+# Ignore DrawIO backup files
+*.drawio.bkp
+
+# Ignore temporary Office files
+~$*.*
