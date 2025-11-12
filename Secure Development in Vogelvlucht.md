@@ -1,6 +1,6 @@
 # Secure Development
 
-De uitleg op deze pagina zal ingaan op hoe wij Secure Development zien. De inhoud is gebaseerd op de PowerPoint presentatie die wij als Security opgezet hebben.
+De uitleg op deze pagina zal ingaan op hoe wij Secure Development zien, en hoe de Secure Development Pathway hier in past.
 
 ## Wat is Secure Development
 
@@ -8,7 +8,7 @@ De uitleg op deze pagina zal ingaan op hoe wij Secure Development zien. De inhou
 * Het gaat erom mogelijke kwetsbaarheden proactief te identificeren en aan te pakken, zodat beveiligingsmaatregelen een vast onderdeel van de workflow zijn in plaats van een bijzaak.
 * Door de samenwerking op te zoeken tussen de Security afdeling en de Development teams, kunnen we samen een goed werkende Secure Development Lifecycle ontwikkelen.
 
-![Secure Development](../.Content/SecureDevelopment.png)
+![Secure Development](.Content/SecureDevelopment.png)
 
 ## Waarom Secure Development
 
@@ -16,7 +16,7 @@ De uitleg op deze pagina zal ingaan op hoe wij Secure Development zien. De inhou
 * **Naleving van regelgeving**: Voldoe aan industrienormen (BIO) en vermijd juridische boetes.
 * **Klantvertrouwen & Reputatie**: bouw en onderhoud het vertrouwen bij onze klanten door ervoor te zorgen dat hun gegevens veilig zijn.
 
-![Shift Left](../.Content/DevSecOps-Cost.png)
+![Shift Left](.Content/DevSecOps-Cost.png)
 
 ## Shift Left in Security
 
@@ -24,7 +24,7 @@ De uitleg op deze pagina zal ingaan op hoe wij Secure Development zien. De inhou
 * **Vroege detectie**: Identificeer en los kwetsbaarheden op voordat ze kostbaar worden.
 * **Continue verbetering**: regelmatige updates en feedbackloops om de beveiliging te verbeteren.
 
-![Shift Left](../.Content/ShiftLeft.png)
+![Shift Left](.Content/ShiftLeft.png)
 
 ## Welke uitdagingen
 
