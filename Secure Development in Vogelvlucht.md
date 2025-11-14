@@ -68,8 +68,12 @@ De uitleg op deze pagina zal ingaan op hoe wij Secure Development zien, en hoe d
 
 ## Wanneer zijn de Secure Development richtlijnen van toepassing
 
-De Secure Development richtlijnen kunnen op elk moment gevolgd worden, het is niet afhankelijk van een specifiek moment. Uiteraard door de natuur van de richtlijnen (Shift Left) is het meest opportune moment net na de ontwerpfase, op het moment dat de ontwikkelfase begint.
+De Secure Development richtlijnen kunnen op elk moment gevolgd worden, het is niet afhankelijk van een specifiek moment. Uiteraard door de natuur van de richtlijnen (Shift Left) is het meest opportune moment net na de ontwerpfase, op het moment dat de ontwikkelfase begint, als je daadwerkelijke traceable toepassing wil doen. Tijdens de designfase is het absoluut aanbevolen om de SDP te raadplegen.
 
 Ook kan er gekozen worden voor het uitvoeren van specifieke onderdelen van de richtlijnen, zoals alleen een hoofdstuk "Access Control" of "Authentication" uit bijvoorbeeld de OWASP ASVS. Het is echter wel goed om in de basis een compleet pakket van richtlijnen waar van toepassing toe te passen, zodat je project meetbaar werkt aan compliancy en de algemene veiligheid van je applicatie.
 
 Denk ook na over het opnieuw bezoeken van de richtlijnen bij grote wijzigingen in je applicatie, nieuwe sprints en updates.
+
+Zie hieronder een eenvoudig schema van een CI/CI, en waar de SDP het beste zou passen:
+
+![Secure Development Pathway When](.Content/SecureDevelopmentPathwayWhen.png)
