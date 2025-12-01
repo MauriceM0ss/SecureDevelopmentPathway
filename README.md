@@ -63,6 +63,11 @@ De OWASP ASVS is een zeer goede bron als het gaat om web applicatie security. He
 
 Waar we ook mee bezig zijn is een koppeling bouwen tussen de SDP en de backlog die je gebruikt binnen je project, zodat je eenvoudig een richtlijn uit de SDP kan pakken en deze opvoeren als backlog item. Hiermee krijg je een overzicht in de (Security) stappen die je maakt, en creëer je een audit-trail voor compliance.
 
+## Auteurs
+
+De Secure Development Pathway is een doorintwikkeling op de OWASP ASVS.
+De Secure Development Pathway is ontwikkeld door [Bram van de Kerkhof](https://www.linkedin.com/in/bram-van-de-kerkhof-42077297/) en [Robbert Vennik](https://www.linkedin.com/in/robbert-vennik/).
+
 ## Wat als de OWASP ASVS geupdate wordt?
 
 OWASP update de ASVS niet heel vaak, de major versies worden ongeveer elke drie tot vier jaar geupdate. Er kunnen nieuwe richtlijnen bijkomen, en bepaalde vervallen omdat ze bijvoorbeeld verouderd zijn of simpelweg niet meer van toepassing zijn. Wij houden de wijzigingen van de OWASP ASVS bij, en controleren deze tegen de SDP. Waar nodig worden aanpassingen gedaan op basis van de nieuwe ASVS versies.
